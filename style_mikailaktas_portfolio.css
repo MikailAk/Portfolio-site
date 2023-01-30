@@ -355,7 +355,6 @@ input[type=text], select, textarea {
   }
 
   .navigatie {
-    display: flex !important;
     flex-wrap: wrap !important;
   }
   
